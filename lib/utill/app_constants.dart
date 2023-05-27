@@ -4,10 +4,10 @@ import 'package:sixvalley_vendor_app/data/model/response/language_model.dart';
 import 'package:sixvalley_vendor_app/utill/images.dart';
 
 class AppConstants {
-  static const String APP_NAME = 'Seller App';
+  static const String APP_NAME = 'aBay Seller';
   static const String APP_VERSION = '13.0';
-  static const String COMPANY_NAME = '6Valley';
-  static const String BASE_URL = 'https://6valley.6am.one';
+  static const String COMPANY_NAME = 'XMON LLC';
+  static const String BASE_URL = 'https://abay.xmonllc.com';
   static const String LOGIN_URI = '/api/v3/seller/auth/login';
   static const String CONFIG_URI = '/api/v1/config';
   static const String SELLER_URI = '/api/v3/seller/seller-info';
